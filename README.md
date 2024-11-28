@@ -1,6 +1,8 @@
 # patch_nameplatecastbars-3.3.5
 
 You are looking for an addon to see the castbars under every player nameplates without targetting them or having them on focus.
+you got to path your wow.exe with it.
+
 No idea if it works on default plates only yet
 
 /!\ Make sure it's allowed on your server before to install it !
